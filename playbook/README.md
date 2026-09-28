@@ -31,6 +31,7 @@ Written Monday, September 28, 2026. Aimed at a brand-new store selling to US cus
 | 5 | [05-operations.md](05-operations.md) | Fulfillment, photo checks, customer service, preventing chargebacks and payout holds, holiday cutoffs, daily and weekly numbers |
 | 6 | [06-copy-kit.md](06-copy-kit.md) | Ready-to-paste product page copy, FAQ, policies, ad hooks and scripts, email copy |
 | 7 | [07-brand-and-offers.md](07-brand-and-offers.md) | Name research (**SnootHug**), brand setup checklist, and the discount code system |
+| 8 | [08-sample-order-guide.md](08-sample-order-guide.md) | Step-by-step Printify sample order and the scorecard for choosing a provider |
 | ★ | [STORE-STATUS.md](STORE-STATUS.md) | **Start here:** what's in your store now, what I created, and your next steps in order |
 
 ## The 10-week calendar (starting today)
