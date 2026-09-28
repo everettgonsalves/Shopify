@@ -13,19 +13,11 @@ Target: a store ready to take real orders by **about Oct 8, 2026**. Keep it simp
 
 ## Step 1: Brand (Day 1–2)
 
-**Name.** Short, easy to say, pet-plus-warmth feel, and **not** similar to Crown & Paw or West & Willow. Ideas to check:
+**Name: SnootHug** (researched in [07-brand-and-offers.md](07-brand-and-offers.md)). The ideas first listed here were replaced: three of them already had their .com taken.
 
-- *Snoot & Stitch*
-- *Loyal Loom*
-- *Hug Their Face Co.*
-- *Paw & Hearth*
-- *Kindred Paws Co.*
-
-For your pick:
-
-- [ ] Search the USPTO trademark database for conflicts.
-- [ ] Check that the .com (or a clean variant) is available.
-- [ ] Check that the @handle is free on TikTok and Instagram.
+- [ ] Search the USPTO trademark database for conflicts (details in file 07).
+- [ ] Buy `snoothug.com` in **your existing store**: Settings → Domains → Buy new domain. It was available for $16/yr on Sep 28.
+- [ ] Check that `@snoothug` is free on TikTok and Instagram.
 
 **Visual identity.**
 

@@ -117,7 +117,7 @@ Target cost per purchase = **$32 or lower**. Break-even is about $37 (see file 0
 ## 5. Email and SMS (Klaviyo): where the profit comes from
 
 **Signup popup:**
-- Offer: "10% off your first custom gift + our Christmas deadline reminder."
+- Offer: "10% off your first custom gift + our Christmas deadline reminder." Use a **unique single-use code** from Klaviyo, not one shared code (see file 07).
 - Show it after 8 seconds or on exit intent, on mobile too.
 
 **Flows to build before launch.** Copy is in file 06.

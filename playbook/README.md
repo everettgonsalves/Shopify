@@ -30,6 +30,7 @@ Written Monday, September 28, 2026. Aimed at a brand-new store selling to US cus
 | 4 | [04-marketing-launch.md](04-marketing-launch.md) | Creative strategy, Meta and TikTok and Google setup, rules for killing or scaling ads, email and SMS flows, Black Friday and Christmas plan |
 | 5 | [05-operations.md](05-operations.md) | Fulfillment, photo checks, customer service, preventing chargebacks and payout holds, holiday cutoffs, daily and weekly numbers |
 | 6 | [06-copy-kit.md](06-copy-kit.md) | Ready-to-paste product page copy, FAQ, policies, ad hooks and scripts, email copy |
+| 7 | [07-brand-and-offers.md](07-brand-and-offers.md) | Name research (**SnootHug**), brand setup checklist, and the discount code system |
 | ★ | [STORE-STATUS.md](STORE-STATUS.md) | **Start here:** what's in your store now, what I created, and your next steps in order |
 
 ## The 10-week calendar (starting today)

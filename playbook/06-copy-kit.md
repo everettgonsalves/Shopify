@@ -137,7 +137,7 @@ Order by **[date]** for standard delivery by Dec 24. Missed it? You'll get a pri
 ### Welcome flow
 
 **Email 1 (right away).** Subject: *Your 10% code is inside 🐾*
-> Welcome to [Brand]! Here's **WELCOME10** for 10% off your first custom portrait. Upload any photo and you'll see a live preview before you order. And yes, we check every photo by hand before printing.
+> Welcome to SnootHug! Here's your personal code, **[unique Klaviyo code]**, for 10% off your first custom portrait. Upload any photo and you'll see a live preview before you order. And yes, we check every photo by hand before printing.
 > [Create yours →]
 
 **Email 2 (day 2).** Subject: *"Does my photo need to be perfect?"*
@@ -145,7 +145,7 @@ Order by **[date]** for standard delivery by Dec 24. Missed it? You'll get a pri
 > [Upload a photo →]
 
 **Email 3 (day 4).** Subject: *Christmas deadline + your code expires soon*
-> Order by **[date]** for Christmas delivery. Your code WELCOME10 is still active for 48 hours.
+> Order by **[date]** for Christmas delivery. Your personal code **[unique Klaviyo code]** is still active for 48 hours.
 > [Finish your gift →]
 
 ### Abandoned checkout flow
