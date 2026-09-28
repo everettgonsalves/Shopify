@@ -30,6 +30,7 @@ Written Monday, September 28, 2026. Aimed at a brand-new store selling to US cus
 | 4 | [04-marketing-launch.md](04-marketing-launch.md) | Creative strategy, Meta and TikTok and Google setup, rules for killing or scaling ads, email and SMS flows, Black Friday and Christmas plan |
 | 5 | [05-operations.md](05-operations.md) | Fulfillment, photo checks, customer service, preventing chargebacks and payout holds, holiday cutoffs, daily and weekly numbers |
 | 6 | [06-copy-kit.md](06-copy-kit.md) | Ready-to-paste product page copy, FAQ, policies, ad hooks and scripts, email copy |
+| ★ | [STORE-STATUS.md](STORE-STATUS.md) | **Start here:** what's in your store now, what I created, and your next steps in order |
 
 ## The 10-week calendar (starting today)
 
@@ -48,7 +49,7 @@ Written Monday, September 28, 2026. Aimed at a brand-new store selling to US cus
 ## What I did and didn't do in this session
 
 - **Research:** about 30 web searches covering trend reports, tariff and customs rules, Meta ad benchmarks, conversion benchmarks, print-on-demand pricing, personalization apps, email benchmarks, payout-hold rules, and competitors. Direct page fetches (Shopify, CJ, AutoDS, SellTheTrend, and others) were **blocked by this cloud environment's network policy**, so the data comes from search results. Sources are listed in each file.
-- **Your Shopify store:** the Shopify connector **needs you to sign in again** in your claude.ai connector settings. I couldn't read your store or create anything in it. Once it's reconnected, I can create the products, collections, discount codes, and draft pages from this playbook directly in your store.
+- **Your Shopify store:** connected. I checked the store and added hidden draft pages and collections. See [STORE-STATUS.md](STORE-STATUS.md) for what's there and your next steps.
 - **Things I can't do for you:** check live Meta Ad Library results, Google Trends curves, or exact print-provider quotes. The validation checklist in file 01 tells you exactly how to check each one in about an hour.
 
 ## What I need from you to tighten this
